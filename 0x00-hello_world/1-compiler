@@ -1,3 +1,4 @@
 #!/bin/bash
+#compile the C file and use the -c option to only compile, not link
 gccc -c $CFILE -o ${CFILE%.c}.o
 

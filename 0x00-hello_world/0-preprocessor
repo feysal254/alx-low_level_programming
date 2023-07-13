@@ -1,2 +1,2 @@
 #!/bin/bash
-cpp -o $CPPFILE $CFILE
+gcc  $CPPFILE -h

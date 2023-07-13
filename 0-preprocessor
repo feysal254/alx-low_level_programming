@@ -1,0 +1,4 @@
+#!/bin/bash
+CPPFILE="cpp_$CFILE"
+cpp-O $CPPFILE $CFILE
+

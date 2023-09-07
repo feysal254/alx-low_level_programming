@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc  $CPPFILE -h
+gcc -E $CFILE>c
